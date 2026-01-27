@@ -4,34 +4,55 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This site is hosted by GitHub Sites."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Troy Bauce",
+    "title": "Who is Troy Bauce?",
     "section": "",
-    "text": "A fourth year undergraduate student currently studying at the University of Waterloo. Working towards a bachelor of arts in psychology."
+    "text": "!(website-picture.jpg)"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Troy Bauce",
-    "section": "",
-    "text": "A fourth year undergraduate student currently studying at the University of Waterloo. Working towards a bachelor of arts in psychology."
+    "title": "Who is Troy Bauce?",
+    "section": "About",
+    "text": "About\nA fourth year undergraduate student currently studying at the University of Waterloo. Working towards a bachelor of arts in psychology."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Troy Bauce",
+    "title": "Who is Troy Bauce?",
     "section": "Research Interests",
     "text": "Research Interests\nCurrently interested in industrial/organizational psychology. Specific topics of interest include job satisfaction and workplace structure."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Troy Bauce",
+    "title": "Who is Troy Bauce?",
     "section": "Contact",
     "text": "Contact\nPlease contact me at tbauce@uwaterloo.ca"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Personal: troybauce@gmail.com\nUniversity: tbauce@uwaterloo.ca"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "Personal: troybauce@gmail.com\nUniversity: tbauce@uwaterloo.ca"
+  },
+  {
+    "objectID": "contact.html#linkedin",
+    "href": "contact.html#linkedin",
+    "title": "Contact",
+    "section": "Linkedin",
+    "text": "Linkedin\nhttps://www.linkedin.com/in/troy-bauce-a74244204/"
   }
 ]

@@ -2,6 +2,8 @@
 title: "Who is Troy Bauce?"
 ---
 
+<img src="website-picture.jpg" width = "30%" height = "30%">
+
 ## About
 
 A fourth year undergraduate student currently studying at the University of Waterloo. Working towards a bachelor of arts in psychology.

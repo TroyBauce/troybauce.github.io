@@ -1,0 +1,14 @@
+---
+title: "Contact"
+format: html
+---
+## Email
+
+Personal: [troybauce@gmail.com](troybauce@gmail.com)
+
+University: [tbauce@uwaterloo.ca](tbauce@uwaterloo.ca)
+
+## Linkedin
+
+[https://www.linkedin.com/in/troy-bauce-a74244204/](https://www.linkedin.com/in/troy-bauce-a74244204/)
+
