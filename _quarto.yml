@@ -7,8 +7,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - text: "Blogs"
+        menu:
+         - text: Research vs. Reality
+           href: blog1.qmd
+      - href: contact.qmd
+        text: Contact
+
 
 format:
   html:
@@ -16,7 +22,7 @@ format:
       - vapor
       - brand
     css: styles.css
-    toc: true
+    
 
 
 
