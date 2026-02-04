@@ -9,9 +9,7 @@ website:
       - href: index.qmd
         text: "Home"
       - text: "Blogs"
-        menu:
-         - text: Research vs. Reality
-           href: blog1.qmd
+        href: https://troybauce.github.io/blogs
       - href: contact.qmd
         text: Contact
 
