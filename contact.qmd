@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 format: html
+resources:
+    -"TroyBauceResume.pdf"
 ---
 ## Email
 
@@ -16,7 +18,7 @@ University: [tbauce@uwaterloo.ca](tbauce@uwaterloo.ca)
 
 In case of any professional interest, you may download my resume with this link:
 
-[Troy Bauce Resume.pdf](troybauce.github.io/TroyBauceResume.pdf)
+[TroyBauceResume.pdf](TroyBauceResume.pdf)
 
 Last updated: 02/04/2026
 
